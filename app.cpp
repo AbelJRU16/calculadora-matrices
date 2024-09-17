@@ -9,11 +9,7 @@
 //             de una matriz por un numero real, transposicion de
 //             una matriz e inversa de una matriz.
 //
-//Autores: (Trifasic Software C.A)
-//         Amaya, Juan CI: 26.986.480
-//         Arcaya, Axel CI: 26.463.729
-//         Piña, Hebert CI: 26.463.838
-//         Robles, Abel CI: 27.096.529
+//Autores: gRobles, Abel CI: 27.096.529
 //
 //Desarrollado en: Acer 5920. 2GB RAM. Intel Core2 duo.
 //
@@ -48,7 +44,7 @@ int main(){
 	    <<"\n\tCOPYRIGHT TRIFASIC SOFTWARE.\n";
 	//opciones
 	while(op!=7){	
-		//Menu principal, posee las distintas opciones y segun la respuesta del usuario se ejecutará alguna operacion
+		//Menu principal, posee las distintas opciones y segun la respuesta del usuario se ejecutarï¿½ alguna operacion
 		cout<<"\n\tELIJA UNA OPCION:\n\t"
 			<<"OPCION #1: SUMA DE MATRICES.\n\t"
 			<<"OPCION #2: RESTA DE MATRICES.\n\t"
